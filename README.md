@@ -1,11 +1,8 @@
-
 # Student Learning Portal
 
 ## Introduction
 
-The **Student Learning Portal** is an *educational project* designed to help students learn programming and access useful learning resources.
-
-~~Learning programming is impossible without practice.~~
+The **Student Learning Portal** is an *educational project* designed to help students learn programming.
 
 ## About the Project
 
@@ -13,9 +10,9 @@ This project helps students explore educational resources, improve programming k
 
 **Author:** Gargi Baranwal
 
-**Purpose:** To make learning resources accessible and encourage students to practise programming.
+**Purpose:** To make learning resources accessible.
 
-**GitHub Repository:** [Click here to view the repository](https://github.com/gargi-i8/firstGit.webd.git)
+**GitHub Repository:** (https://github.com/gargi-i8/firstGit.webd.git)
 
 ## Features
 
@@ -35,11 +32,11 @@ This project helps students explore educational resources, improve programming k
 
 ## Official Python Website
 
-Visit the [official Python website](https://www.python.org/) to explore Python documentation and tutorials.
+Visit the (https://www.python.org/) to explore Python documentation and tutorials.
 
 ## Educational Image
 
-![Student Learning Portal](# firstGit.webd
+![Student Learning Portal]# firstGit.webd
 # Student Learning Portal
 
 ## Introduction
@@ -50,13 +47,13 @@ The **Student Learning Portal** is an *educational project* designed to help stu
 
 ## About the Project
 
-This project helps students explore educational resources, improve programming knowledge, and develop technical skills.
+This project helps students explore educational resources, improve programming knowledge, and develop skills.
 
 **Author:** Gargi Baranwal
 
 **Purpose:** To make learning resources accessible and encourage students to practise programming.
 
-**GitHub Repository:** [Click here to view the repository](https://github.com/gargi-i8/firstGit.webd.git)
+**GitHub Repository:**(https://github.com/gargi-i8/firstGit.webd.git)
 
 ## Features
 
@@ -76,7 +73,7 @@ This project helps students explore educational resources, improve programming k
 
 ## Official Python Website
 
-Visit the [official Python website](https://www.python.org/) to explore Python documentation and tutorials.
+Visit the (https://www.python.org/) to explore Python documentation and tutorials.
 
 ## Educational Image
 
@@ -152,10 +149,9 @@ This README demonstrates Markdown headings, text formatting, lists, hyperlinks, 
 
 The Student Learning Portal is a beginner-friendly educational project that encourages students to learn programming, explore new technologies, and practise their skills.
 
-This README demonstrates Markdown headings, text formatting, lists, hyperlinks, images, tables, code blocks, blockquotes, and horizontal rules.
-
 ---
 
 **Author:** Gargi Baranwal
+
 
 **Repository URL:** https://github.com/gargi-i8/firstGit.webd.git
