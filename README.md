@@ -33,6 +33,12 @@ This project is about learning programming. It has useful links and coding examp
 
 Python is a programming language. You can learn more about it on the [Python website](https://www.python.org/).
 
+
+## My Project Image
+
+![Student Learning Portal](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800)
+
+
 ## Project Details
 
 | Name | Type | Level |
@@ -54,9 +60,6 @@ Python is a programming language. You can learn more about it on the [Python web
 </html>
 ```
 
-## My Project Image
-
-(https://plus.unsplash.com/premium_photo-1682125773446-259ce64f9dd7?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxM3A3fDA%3D)
 
 ## What I Learned
 
