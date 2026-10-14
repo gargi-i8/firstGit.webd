@@ -34,7 +34,7 @@ This project is about learning programming. It has useful links and coding examp
 Python is a programming language. You can learn more about it on the [Python website](https://www.python.org/).
 
 
-## My Project Image
+## Educational Image
 
 ![Student Learning Portal](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800)
 
